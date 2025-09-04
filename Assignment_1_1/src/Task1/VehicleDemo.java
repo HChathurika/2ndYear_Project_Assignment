@@ -1,6 +1,6 @@
 package Task1;
 
-// VehicleDemo.java (the main program)
+
 public class VehicleDemo {
     public static void main(String[] args) {
         System.out.println("Vehicle Demonstration\n");
