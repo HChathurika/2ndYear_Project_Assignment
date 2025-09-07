@@ -2,7 +2,7 @@ package Task2;
 
 
 public class Event implements Comparable<Event> {
-    private double time;  // when the event occurs
+    private double time;
 
     public Event(double time) {
         this.time = time;

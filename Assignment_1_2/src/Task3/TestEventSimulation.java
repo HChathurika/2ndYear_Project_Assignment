@@ -5,7 +5,7 @@ public class TestEventSimulation {
     public static void main(String[] args) {
         EventList eventList = new EventList();
 
-        // Add some events
+
         eventList.addEvent(new Event(5.0, EventType.ARRIVAL));
         eventList.addEvent(new Event(2.0, EventType.EXIT));
         eventList.addEvent(new Event(8.0, EventType.ARRIVAL));

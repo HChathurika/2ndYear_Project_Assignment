@@ -15,7 +15,7 @@ public class EventList {
     }
 
     public Event getNextEvent() {
-        return queue.poll();  // removes and returns earliest event
+        return queue.poll();
     }
 
     public boolean isEmpty() {
