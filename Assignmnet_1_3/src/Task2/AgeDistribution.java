@@ -1,3 +1,5 @@
+package Task2;
+
 public class AgeDistribution {
     public static void main(String[] args) {
         final int REITERATIONS = 1000;   // Number of ages to generate
