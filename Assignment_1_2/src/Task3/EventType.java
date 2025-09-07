@@ -1,4 +1,8 @@
 package Task3;
 
-public class EventType {
+
+public enum EventType {
+    ARRIVAL,
+    EXIT
 }
+
